@@ -1,0 +1,10 @@
+xpath
+//input[@type='text']
+xpath
+//input[@type='text']
+xpath
+//input[@type='password']
+xpath
+//input[@type='password']
+class name
+button
